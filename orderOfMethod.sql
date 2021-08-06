@@ -1,0 +1,15 @@
+--ลำดับการทำงาน
+-- SELECT
+-- 	column_name(s)
+-- FROM
+-- 	table_name(s)
+-- WHERE
+-- 	condition(s)
+-- GROUP BY
+-- 	column_name(s)
+-- HAVING
+-- 	condition(s)
+-- ORDER BY
+-- 	column_name(s)
+-- LIMIT
+-- 	number of rows;
